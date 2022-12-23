@@ -37,5 +37,5 @@ Whatsapp bot using chatGPT from OpenAI
 8. Run the script
 
    ```bash
-   $ python jarvis.py
+   $ python example.py
    ```
