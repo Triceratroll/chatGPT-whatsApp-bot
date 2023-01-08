@@ -1,5 +1,4 @@
-/node_modules
 .vscode
 .env
-*.mp3
 venv
+useful_links.txt
