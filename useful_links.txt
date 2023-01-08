@@ -1,0 +1,6 @@
+https://developers.facebook.com/docs/whatsapp/cloud-api/reference/media
+https://developers.facebook.com/docs/development/create-an-app/#crear-una-aplicaci-n
+https://business.whatsapp.com/developers/developer-hub/
+https://beta.openai.com/examples
+https://www.pragnakalp.com/automate-messages-using-whatsapp-business-api-flask-part-1/
+https://www.twilio.com/login
