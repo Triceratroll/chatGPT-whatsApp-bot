@@ -1,4 +1,4 @@
-# chatGPT-whatsApp-bot
+# chatGPT-whatsApp-bot *IN PROGRESS*
 Whatsapp bot using chatGPT from OpenAI
 
 ## Setup
